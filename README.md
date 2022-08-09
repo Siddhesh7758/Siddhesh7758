@@ -1,7 +1,7 @@
 Hi 👋 My name is Siddhesh Munfan
 ================================
 
-Wed developer and Designer
+Web developer and Designer
 --------------------------
 
 * 🌍  I'm based in India
