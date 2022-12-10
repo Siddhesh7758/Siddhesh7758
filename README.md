@@ -4,7 +4,7 @@ Hi 👋 My name is Siddhesh Munfan
 Web developer and Software Engineer
 --------------------------
 
-* 🌍  I'm based in India
+* 🌍  I live in India
 * ✉️  You can contact me at [munfansiddhesh7758@gmail.com](mailto:munfansiddhesh7758@gmail.com)
 
 ### Skills
